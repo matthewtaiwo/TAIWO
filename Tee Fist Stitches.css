@@ -1,0 +1,84 @@
+.col{
+    color:black;
+}
+h3{
+    text-align: center;
+ } 
+  /* .tope{
+    height: 70px;
+    width: 70px;
+    margin: 15px 0 0 100px;
+    border-radius: 50%;
+    text-align: center;
+ } */
+
+.cum1{
+    height: 30px;
+    width: 30px;
+    margin:0 0 0 0;
+    border-radius: 50%;
+    text-align: center;
+ }
+
+
+ body {
+    background-color: rgba(230, 200, 29, 0.881);
+  }
+
+  img {
+    border-radius: 50%;
+    text-align: center;
+  }
+
+  ul{
+    text-align: right;
+    display:flex;
+    list-style:none;
+    float:right;
+    margin: -29px 24px 0 0;
+  }
+  
+  li{
+    color: black;
+    padding: 10px;
+  }
+
+  .cum2{
+    height: 200px;
+    width: 200px;
+    margin: 0 0 0 600px;
+    border-radius: 50%;
+    text-align:center;
+ }
+ .cum3{
+  text-align:center ;
+  margin: 0 0 0 600px;
+ }
+
+ .aclass{
+  display:flex;
+  gap: 1.5rem;
+  justify-content: center;
+ }
+
+ .cum4{
+margin: -27px 0 0 570px;
+font-weight:700;
+ }
+
+ .cum5{
+  margin: -27px 0 0 420px;
+font-weight:700;
+ }
+
+ /* .banner{
+  background-image: url('imag/banner.jpg');
+  background-position:0;
+  background-size: 50%;
+  height:500px;
+  margin: -27px 0 0 300px;
+ } */
+  
+
+
+
