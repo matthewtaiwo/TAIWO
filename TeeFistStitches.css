@@ -21,11 +21,15 @@ h3{
  }
 
 
- body {
+ body{
     background-color: rgba(230, 200, 29, 0.881);
   }
-
-  img {
+.carousel_img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+  img{
     border-radius: 50%;
     text-align: center;
   }
@@ -46,12 +50,12 @@ h3{
   .cum2{
     height: 200px;
     width: 200px;
-    margin: 0 0 0 600px;
+    margin: 0 0 0 97px;
     border-radius: 50%;
     text-align:center;
  }
  .cum3{
-  text-align:center ;
+  
   margin: 0 0 0 600px;
  }
 
@@ -62,8 +66,9 @@ h3{
  }
 
  .cum4{
-margin: -27px 0 0 570px;
-font-weight:700;
+  text-align:center ;
+  margin: -25px 0 0 100px;
+  font-weight:700;
  }
 
  .cum5{
@@ -71,13 +76,18 @@ font-weight:700;
 font-weight:700;
  }
 
- /* .banner{
-  background-image: url('imag/banner.jpg');
-  background-position:0;
-  background-size: 50%;
-  height:500px;
-  margin: -27px 0 0 300px;
- } */
+  #banner{
+  background-image: url("imag/background.png");
+  background-repeat:no repeat;
+  background-size:100%;
+  height:100px;
+  margin: 700px;
+ }
+
+ 
+ 
+
+ 
   
 
 
