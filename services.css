@@ -39,6 +39,10 @@ body{
     border-radius: 50%;
     text-align:center;
  }
+ 
+ html{
+  scroll-behavior: smooth;
+ }
 
  .bot{
   z-index: -1;
